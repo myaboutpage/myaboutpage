@@ -2,7 +2,7 @@
 
 Welcome to this GitHub
 
-⟵ The [source](https://x.com/mlbbxbdsm/status/1942315708865778017.png) of [my profile picture](https://github.com/myaboutpage/myaboutpage/blob/main/x.com-mlbbxbdsm-status-1942315708865778017.png) 
+⟵ The [source](https://x.com/mlbbxbdsm/status/1942315708865778017) of [my profile picture](https://github.com/myaboutpage/myaboutpage/blob/main/x.com-mlbbxbdsm-status-1942315708865778017.png) 
 
 <!--
 **myaboutpage/myaboutpage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
