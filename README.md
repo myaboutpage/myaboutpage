@@ -1,20 +1,11 @@
-## Hi there 👋
+## what's up!👋
 
-<!--<a href="https://github.com/CivilianSauce/CivilianSauce/blob/main/rwtd252o977c1.jpeg">
-  <img src="rwtd252o977c1.jpeg" alt="Profile Image" width="29%" align="right">
-</a>-->
+Welcome to this GitHub
 
-Welcome to my GitHub! And...  
-*honestly, I don't know what to say — I'm just bored.*
-
-⟵ [My profile picture](https://github.com/CivilianSauce/CivilianSauce/blob/main/rwtd252o977c1.jpeg) 
-and [its source](https://www.reddit.com/r/Frieren/comments/18lvslo/frierens_machine_gun_seb_inks/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+⟵ The [source](https://x.com/mlbbxbdsm/status/1942315708865778017.png) of [my profile picture](https://github.com/myaboutpage/myaboutpage/blob/main/x.com-mlbbxbdsm-status-1942315708865778017.png) 
 
 <!--
-
-~[![My profile picture](./image.jpg)](https://www.reddit.com/r/Frieren/comments/18lvslo/frierens_machine_gun_seb_inks/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)~
-
-**CivilianSauce/CivilianSauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**myaboutpage/myaboutpage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
